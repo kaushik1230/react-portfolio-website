@@ -81,7 +81,7 @@ export const projectsData = [
       "Build a platform that remotely runs and compiles user submitted code for a programming problem securely and judges if the code is correct/wrong",
     tech: ["Nodejs", "React", "Docker", "Redis", "MongoDB", "Expressjs", "JWT"],
     github: "https://github.com/kaushik1230/online-Judge",
-    external: "https://oj.amanarya.com",
+    external: "https://oj.theKaushikdutta.com",
     image: "/projects/oj-front.png",
   },
   {
@@ -97,8 +97,8 @@ export const projectsData = [
       "Bootstrap",
       "drei",
     ],
-    github: "https://github.com/Am4nn/Portfolio-Website",
-    external: "https://www.amanarya.com",
+    github: "https://github.com/kaushik1230/react-portfolio-website",
+    external: "https://www.thekaushikdutta.com",
     image: "/projects/portfolio-front.png",
   },
 ];

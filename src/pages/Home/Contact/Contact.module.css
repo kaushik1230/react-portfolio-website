@@ -54,14 +54,20 @@
   .container {
     flex-direction: column-reverse;
   }
+  .heading_1 {
+    margin-left: 10%;
+  }
 }
 
 .contact {
-  width: 100% !important;
+  width: 100vw !important;
 }
 
 .heading_1 {
   opacity: 0.8;
+  display: flex;
+  flex-direction: column;
+  margin-left: 17%;
   letter-spacing: 0.05em;
   text-transform: uppercase;
   color: rgb(170, 166, 195);

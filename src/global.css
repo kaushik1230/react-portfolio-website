@@ -1,5 +1,3 @@
-@import "tailwindcss";
-
 @font-face {
   font-family: gotham;
   src: url("/fonts/gotham-medium.woff2");
@@ -37,7 +35,7 @@ code {
 
 #portfolio-main > section {
   position: relative;
-  min-height: 100vh;
+
   padding-top: 4rem;
   width: 100%;
 }

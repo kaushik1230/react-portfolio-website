@@ -1,6 +1,6 @@
 # Portfolio Website - Aman Arya
 
-<b>Visit [Am4nn/Portfolio-Nextjs-Website](https://github.com/kaushik1230/react-portfolio-website) github repository for the updated portfolio made using Nextjs:14 </b>
+<b>Visit [kaushik/Portfolio-Nextjs-Website](https://github.com/kaushik1230/react-portfolio-website) github repository for the updated portfolio made using Nextjs:14 </b>
 
 Welcome to my portfolio website built with ReactJS, Three.js, and hosted on Vercel with a custom domain [www.thekaushikdutta.com](https://www.thekaushikdutta.com)
 
